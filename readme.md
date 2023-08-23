@@ -12,7 +12,7 @@ A Paper fork of henkelmax's Audio Player.
 - Прямые ссылки Google Drive: https://lonedev6.github.io/gddl/
 
 
-https://vimeo.com/857146345?share=copy
+https://vimeo.com/857146345?share=copy.mp4
 
 Конфиг:
 ```
