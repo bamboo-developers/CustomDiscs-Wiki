@@ -1,6 +1,6 @@
-# Custom Discs v2.4 for Paper 1.16.5
+# Custom Discs for Paper 1.16.5
+### Разработан специально для [Bambooland](https://discord.com/invite/bambooland-919189180360318976)
 
-A Paper fork of henkelmax's Audio Player.
 - Воспроизведение пользовательских музыкальных дисков с использованием API простого голосового чата. (Мод голосового чата требуется на клиенте и сервере.)
 - Используйте ```/customdisc``` или ```/cd```, чтобы создать пользовательский диск.
 - Музыкальные файлы должны быть помещены в папку ```plugins/CustomDiscs/musicdata/```.
