@@ -11,14 +11,6 @@ A Paper fork of henkelmax's Audio Player.
 - Пример: ```/cd download https://example.com/mysong "mysong.mp3"```
 - Прямые ссылки Google Drive: https://lonedev6.github.io/gddl/
 
-Пермишаны (необходимы для выполнения команд. Воспроизведение дисков не требует наличия разрешения.):
-- ```customdiscs.create``` для создания диска
-- ```customdiscs.download``` для загрузки файла
-
-
-Зависимости:
-
-- Данный плагин зависит от последней версии ProtocolLib для версии 1.16.5
 
 https://user-images.githubusercontent.com/64107368/178426026-c454ac66-5133-4f3a-9af9-7f674e022423.mp4
 
