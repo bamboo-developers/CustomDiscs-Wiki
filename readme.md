@@ -14,7 +14,7 @@
 Зависимости:
 - Для того чтоб у вас работали кастомные пластинки вам необходим мод [simple voice chat](https://modrinth.com/plugin/simple-voice-chat/versions?c=release)
 
-## [Пример установки музыки](https://vimeo.com/857146345?share=copy)
+## [Пример установки музыки на пластинку](https://vimeo.com/857146345?share=copy)
 
 
 _By bamboo-developers_
