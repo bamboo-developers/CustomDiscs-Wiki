@@ -11,6 +11,8 @@
 - Пример: ```/cd download https://example.com/mysong "mysong.mp3"```
 - Прямые ссылки Google Drive: https://lonedev6.github.io/gddl/
 
+Зависимости:
+- Для того чтоб у вас работала музыка вам необходим мод [simple voice chat](https://modrinth.com/plugin/simple-voice-chat/versions?c=release)
 
 ## [Пример установки музыки](https://vimeo.com/857146345?share=copy)
 
