@@ -13,3 +13,6 @@
 
 
 ## [Пример установки музыки](https://vimeo.com/857146345?share=copy)
+
+
+-By bamboo-developers-
